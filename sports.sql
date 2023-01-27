@@ -1,6 +1,6 @@
-CREATE DATABASE game;
+CREATE DATABASE Sports;
 
-use game;
+use Sports;
 
 CREATE TABLE olympicGames(id int, gametype varchar(40), playerName varchar(40) , country varchar(40), noOfplayers varchar (40) ,  noOfTeams int, noOfMedals int, medalTypes varchar(40), jerseyNo int, winningPrize int);
 
@@ -43,6 +43,7 @@ INSERT INTO olympicGames VALUES (37,'Badminton', 'Jayanth' , 'India', 2 , 10 ,2 
 INSERT INTO olympicGames VALUES (38,'Archery', 'tenali' , 'Afganistan', 4 , 14 ,1 , 'gold' , 10 ,145600);
 INSERT INTO olympicGames VALUES (39,'Aquatics', 'Roshan' , 'India', 2 , 10 ,2 , 'gold' , 8 ,900000);
 INSERT INTO olympicGames VALUES (40,'Marathon', 'Mofra' , 'Japan', 10 , 50 ,10 , 'Silver' , 8 ,50000);
+INSERT INTO olympicGames VALUES (41,'Athletics', 'Ussen Bolt' , 'Jamica', 10 , 50 ,7 , 'Gold' , 7 ,9000000);
 
 SELECT * FROM olympicGames; 
 

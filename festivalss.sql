@@ -1,0 +1,48 @@
+use jan7batch;
+
+CREATE TABLE festival(id int, festival_name varchar(50), festival_date date, festival_day varchar(50),state varchar(50), foodType varchar(50),food1 varchar(50),food3 varchar(50),food4 varchar(50),food5 varchar(50),region varchar(50), god varchar(50), dress varchar(50), dress_Colour varchar(50), noOfPeople int, place varchar(50), travel varchar(50), cake_cut varchar(50), boysOrGirls varchar(50), dance varchar(50)  );
+
+SELECT *	FROM festival;
+
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
+INSERT INTO festival values(1,'Ugadi', '2023-4-3', 'wednesday', 'karnataka', 'Veg','Obbattu','hesrubele','vade','anna sambar','south','Laksmi','panche','white',100,'inside','temple', 'no','all','no');
